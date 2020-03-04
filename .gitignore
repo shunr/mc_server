@@ -4,4 +4,3 @@ paper.jar
 *.log
 *.db
 *.dat_old
-*.lock
