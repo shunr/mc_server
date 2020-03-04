@@ -1,8 +1,8 @@
 lastAccountName: PlumSauc3
 timestamps:
-  login: 1583230868205
+  login: 1583231895774
   lastteleport: 1583228915754
-  logout: 1583230100564
+  logout: 1583231953732
 ipAddress: 69.17.129.214
 lastlocation:
   world: world
@@ -13,8 +13,9 @@ lastlocation:
   pitch: 33.750015
 logoutlocation:
   world: world
-  x: 2.8605920726960563
-  y: 74.0
-  z: -3.1511298339322553
-  yaw: -258.75012
-  pitch: 23.100027
+  x: 157.64146612837328
+  y: 62.0
+  z: 189.1593196449193
+  yaw: -276.45004
+  pitch: 22.64999
+afk: false

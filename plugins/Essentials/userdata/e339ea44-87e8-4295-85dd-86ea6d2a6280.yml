@@ -1,21 +1,21 @@
 lastAccountName: unskilled_player
 timestamps:
-  login: 1583226061265
-  lastteleport: 1583226836044
-  logout: 1583227644968
+  login: 1583231962998
+  lastteleport: 1583232077684
+  logout: 1583232198588
 ipAddress: 69.17.129.214
 lastlocation:
-  world: world
-  x: 2.175628314270207
-  y: 75.0
-  z: -0.25939398253208884
-  yaw: 82.34794
-  pitch: 45.300743
+  world: world_nether
+  x: 0.5
+  y: 128.0
+  z: 7.380953310274587
+  yaw: 0.0
+  pitch: 0.0
 afk: false
 logoutlocation:
   world: world
-  x: 2.1107577481114603
-  y: 73.0
-  z: 3.300000011920929
-  yaw: 152.55011
-  pitch: 16.20011
+  x: 8480.994933810454
+  y: 71.0
+  z: 8469.7423984318
+  yaw: 176.99979
+  pitch: 17.700096
