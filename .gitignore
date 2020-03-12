@@ -1,6 +1,9 @@
-logs/
-cache/
-paper.jar
+version https://git-lfs.github.com/spec/v1
+oid sha256:900fef242d836325ae6b394d435dd1e852fd2f19fdc6e58995d3cce162dc0ebf
+size 44
 *.log
 *.db
 *.dat_old
+logs/
+cache/
+paper.jar
